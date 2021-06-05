@@ -1,0 +1,39 @@
+body{
+    background: darkgray;
+    
+}
+
+h1{
+    font-family: cursive;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#heading1{
+    font-family: fantasy;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 5%;
+    border: 1px solid darkgray;
+    border-radius: 2px;
+}
+
+#heading2{
+    font-family: monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 5%;
+
+}
+button{
+    padding: 10px;
+    margin-left: 45%;
+    border: darkolivegreen 2px solid;
+    border-radius: 5px;
+    font-weight: bolder;
+    
+}
