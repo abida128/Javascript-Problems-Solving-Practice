@@ -1,0 +1,31 @@
+body{
+    background: lightcyan;
+}
+
+.div-class{
+
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+#div-one{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+#div-two{
+    font-family: italic;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+#div-three{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    
+}

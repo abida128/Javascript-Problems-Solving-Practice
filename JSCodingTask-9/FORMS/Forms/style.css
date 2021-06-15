@@ -1,0 +1,18 @@
+body{
+    background: cornflowerblue;
+
+}
+h1{
+    text-align: center ;
+}
+
+div{
+    margin: 2% 20% 0 0;
+    margin-left: 40%;
+}
+button{
+    align-items: center;
+    margin-left: 45%;
+    padding: 10px;
+    margin-top: 20px;
+}

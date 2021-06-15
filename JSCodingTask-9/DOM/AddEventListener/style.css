@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: o;
+
+}
+
+body{
+    background: cornflowerblue;
+}
+h1{
+    text-align: center;
+    font-size: bold;
+    font-family: sans-serif;
+    color: rgb(19, 4, 73);
+    margin-top: 10%;
+}
+button{
+    margin-left: 40%;
+    background: rgb(63, 63, 62);
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 5%;
+    font-weight: bold;
+
+
+    
+}

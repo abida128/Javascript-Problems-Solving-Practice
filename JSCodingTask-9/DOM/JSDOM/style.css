@@ -1,0 +1,42 @@
+body{
+    background: lightcyan;
+}
+
+.div-class{
+
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+#div-one{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+#div-two{
+    font-family: italic;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+#div-three{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    
+}
+button{
+    border: 2px solid rgb(42, 51, 51);
+    border-radius: 3px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin  : 10% 0  0 40% ;
+    box-shadow: 1px 1px green;
+
+    
+}
